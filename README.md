@@ -3,6 +3,9 @@
 ## Overview
 This project demonstrates the implementation of a complete Big Data architecture on Azure. It covers data ingestion, storage, processing, and visualization using services such as Azure Data Lake, Azure Data Factory, Databricks, and Synapse Analytics. The goal is to build a scalable and optimized data pipeline for analysis and value extraction.
 
+## Architecture Diagram
+<img src="Architecture_Diagram.png">
+
 ## Project Goals
 1. Data Ingestion — Build a mechanism to ingest data from different sources
 2. ETL System — We are getting data in raw format, transforming this data into the proper format
@@ -24,6 +27,5 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-## Architecture Diagram
-<img src="Architecture_Diagram.png">
+
 
