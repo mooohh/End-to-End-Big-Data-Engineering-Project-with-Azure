@@ -17,7 +17,7 @@ This project demonstrates the implementation of a complete Big Data architecture
 
 5. Reporting & Visualization – Create interactive dashboards to generate insights and answer key business questions.
 
-## Services we will be using
+## Used Services
 1. Azure Data Factory: Azure Data Factory is a fully managed data integration service that enables orchestration and automation of data movement and transformation workflows at scale.
 
 2. Azure Data Lake Gen2: A storage service optimized for big data analytics, combining Azure Blob Storage capabilities with data lake-specific features to efficiently manage massive volumes of data.
