@@ -7,11 +7,15 @@ This project demonstrates the implementation of a complete Big Data architecture
 <img src="Architecture_Diagram.png">
 
 ## Project Goals
-1. Data Ingestion — Build a mechanism to ingest data from different sources
-2. ETL System — We are getting data in raw format, transforming this data into the proper format
-3. Data lake — We will be getting data from multiple sources so we need centralized repo to store them
-5. Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use Azure
-6. Reporting — Build a dashboard to get answers business questions
+1. Data Ingestion – Develop a process to collect and import data from various sources.
+
+2. ETL System – Extract raw data, transform it into a structured format, and load it into the target system for analysis.
+
+3. Data Lake – Store data from multiple sources in a centralized repository to ensure scalability and easy access.
+
+4. Cloud Infrastructure – Utilize cloud computing (Azure) to handle large-scale data processing that exceeds local machine capabilities.
+
+5. Reporting & Visualization – Create interactive dashboards to generate insights and answer key business questions.
 
 ## Services we will be using
 1. Azure Data Factory: Azure Data Factory is a fully managed data integration service that enables orchestration and automation of data movement and transformation workflows at scale.
